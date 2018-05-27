@@ -6,7 +6,7 @@ I don't take any responsibilities if you blow your system up!
 ### Installing
 
 
-``` uninstall the bad nodejs version 0.10 the wich have the issue nodejs word linked to bin ```
+``` uninstall the bad nodejs version 0.10 the wich have the issue nodejs word linked to bin 
     
 ``` through cli```  
 
