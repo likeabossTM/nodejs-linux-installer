@@ -1,10 +1,11 @@
-# NodeJS Linux Installer
-This is an universal NodeJS installer for Linux.
+### Suport for debian jessie
+# NodeJS Linux Installer for debian jessie
+This is an universal NodeJS installer for Linux.[version modified to support debian jessie 8 ]
 I don't take any responsibilities if you blow your system up!
 
 ### Installing
 ```
-curl https://raw.githubusercontent.com/taaem/nodejs-linux-installer/master/node-install.sh 2>/dev/null | sh
+wget ""
 ```
 ### Contributing
 Just create a fork and please contribute all your improvements back here!
@@ -13,3 +14,5 @@ Just create a fork and please contribute all your improvements back here!
 MIT
 
 Thanks for all Contributions
+
+
