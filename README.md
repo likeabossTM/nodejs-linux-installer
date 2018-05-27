@@ -4,9 +4,13 @@ This is an universal NodeJS installer for Linux.[version modified to support deb
 I don't take any responsibilities if you blow your system up!
 
 ### Installing
-``` uninstall nodejs
 
-    running anyuser@anyuser:~$ sudo apt-get purge --auto-remove nodejs
+
+``` uninstall the bad nodejs version 0.10 the wich have the issue nodejs word linked to bin ```
+    
+``` through cli```  
+
+``` running anyuser@anyuser:~$ sudo apt-get purge --auto-remove nodejs
     
     or manually completely uninstall node + npm is to do the following:
 
@@ -32,7 +36,21 @@ I don't take any responsibilities if you blow your system up!
     anyuser@anyuser:~$ sudo ./node-install.sh
     
     wait a few minutes while the script search for the correct node version for gnu root debian
+    
+    till the cli show the installation has been finished
+    
+    test it
+    
+    anyuser@anyuser:~$ node
+    > 3+3 
+    > 6
+    
+    enjoy it and share
 ```
+
+
+
+
 
 ### Contributing
 Just create a fork and please contribute all your improvements back here!
